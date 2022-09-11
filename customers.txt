@@ -1,0 +1,10 @@
+CustomerID,Name,City,Age
+112087130,Charles Daniels,Jerusalem,59
+118413688,Donna Porter,Tel Aviv,47
+410071322,Don Elliott,Haifa,53
+431670760,Theresa Little,Ashdod,32
+450993466,Shirley Marshall,Jerusalem,18
+598036075,Jorge Frazier,Tel Aviv,28
+800835367,Larry Brown,Beersheba,62
+831720816,Rafael Young,Netanya,27
+913071852,Michael Baker,Holon,42
